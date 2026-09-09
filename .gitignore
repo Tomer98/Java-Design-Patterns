@@ -28,3 +28,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+### Editor and tool config ###
+.idea/
+.claude/
+*.iml
+
+### Stray nested repo ###
+/project/
+
